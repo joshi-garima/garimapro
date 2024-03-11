@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @garimajoshi
 - 👀 I’m interested in coding,exploring, 
-- 🌱 I’m currently learning java,oops
+- 🌱 I've exxperience inn coding languages - puthon,java,c,c++
+- ✌🏼 curretly learning NodeJs. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
